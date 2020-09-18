@@ -3,16 +3,16 @@ import React from 'react';
 //import Counter from './Components/CounterExample';
 import HelloWorld from './Components/HelloWorld'
 import Header from './Components/Header'
-
+import Footer from './Components/footer'
 
 function App() {
   return (
     <div >
       <Header />
       <HelloWorld type="plane"/>
-
+      <Footer />
+      
      { /* <CounterExample /> */} 
-
     </div>
   );
 }
