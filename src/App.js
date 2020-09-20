@@ -4,6 +4,7 @@ import React from 'react';
 import HelloWorld from './Components/HelloWorld'
 import Header from './Components/Header'
 import Footer from './Components/footer'
+import Navigation from './Components/Navigation'
 
 function App() {
   return (
